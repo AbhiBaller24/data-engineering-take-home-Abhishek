@@ -1,0 +1,8 @@
+1. Complete every step under Project Setup in the README.md file except do NOT run 'make stop'
+2. make sure to have following python libraries (I use conda package manager but 'pip install' works too):
+    - pandas
+    - psycopg2
+    - json
+3. run the following command in command line: python user_login_loader.py
+   (For certain OS's python3 works instead of python)
+    
