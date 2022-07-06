@@ -1,6 +1,8 @@
 # Fetch Rewards #
 ## Data Engineering Take Home: ETL off a SQS Qeueue ##
 
+## **Instructions to run program in running_user_login_loader_app.txt**
+
 You may use any programming language to complete this exercise. We strongly encourage you to write a README to explain how to run your application and summarize your thought process.
 
 ## What do I need to do?
