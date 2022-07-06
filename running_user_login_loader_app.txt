@@ -5,4 +5,5 @@
     - json
 3. run the following command in command line: python user_login_loader.py
    (For certain OS's python3 works instead of python)
+4. check attached screenshot
     
